@@ -1,4 +1,4 @@
-# Network_Science_Assignments_HSE_Module3_4
+# Practical Assignment for Network Science Course
 
 This repository contains solutions for the assignments of the Network Science Course and Structural Analysis and Visualization of Networks. All notebooks contain test cells with <<assert>> statements for evaluating solutions.
 
