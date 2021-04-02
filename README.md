@@ -4,3 +4,4 @@ This repository contains solutions for the assignments of the Network Science Co
 
 Topics:
   1. [Introduction to Network Science](NS_HW1_Introduction.ipynb)
+  2. [Power Law](NS_HW2_PowerLaw.ipynb)
