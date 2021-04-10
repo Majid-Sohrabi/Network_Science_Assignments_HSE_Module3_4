@@ -6,4 +6,4 @@ Topics:
   1. [Introduction to Network Science](NS_HW1_Introduction.ipynb)
   2. [Power Law](NS_HW2_PowerLaw.ipynb)
   3. [Random Networks](NS_HW3_RandomNetworks.ipynb)
-  4. [Generative Network Models]
+  4. [Generative Network Models](NS_HW4_GenerativeNetworkModels.ipynb)
