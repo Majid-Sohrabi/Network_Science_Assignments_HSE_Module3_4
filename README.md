@@ -9,4 +9,4 @@ Topics:
   4. [Generative Network Models](NS_HW4_GenerativeNetworkModels.ipynb)
   5. [Centrality Measures](NS_HW5_CentralityMeasures.ipynb)
   6. [Link Analysis and Structure](NS_HW6_LinkAnalysis.ipynb)
-  7. [](NS_HW7_CommunityDetection.ipynb)
+  7. [Community Detection Part 1](NS_HW7_CommunityDetectionPart1.ipynb)
