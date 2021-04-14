@@ -2,7 +2,7 @@
 
 This repository contains solutions for the assignments of the Network Science Course and Structural Analysis and Visualization of Networks. All notebooks contain test cells with `assert` statements for evaluating solutions.
 
-Topics:
+Topics in Module 3:
   1. [Introduction to Network Science](NS_HW1_Introduction.ipynb)
   2. [Power Law](NS_HW2_PowerLaw.ipynb)
   3. [Random Networks](NS_HW3_RandomNetworks.ipynb)
@@ -11,3 +11,5 @@ Topics:
   6. [Link Analysis and Structure](NS_HW6_LinkAnalysis.ipynb)
   7. [Community Detection Part 1](NS_HW7_CommunityDetectionPart1.ipynb)
   8. [Community Detection Part 2](NS_HW8_CommunityDetectionPart2.ipynb)
+
+Topics in Module 4:
