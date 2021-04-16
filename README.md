@@ -11,5 +11,6 @@ Topics in Module 3:
   6. [Link Analysis and Structure](NS_HW6_LinkAnalysis.ipynb)
   7. [Community Detection Part 1](NS_HW7_CommunityDetectionPart1.ipynb)
   8. [Community Detection Part 2](NS_HW8_CommunityDetectionPart2.ipynb)
+  9. [Compartmental Epidemic Models]()
 
 Topics in Module 4:
