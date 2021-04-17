@@ -15,3 +15,4 @@ Topics in Module 3:
   10. [Epidemics On Graphs](NS_HW10_EpidemicsOnGraphs.ipynb)
 
 Topics in Module 4:
+  11. [Node Classification](NS_HW11_NodeClassification.ipynb)
