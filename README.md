@@ -25,4 +25,6 @@ Topics in Module 4:
   11. [Node Classification](NS_HW11_NodeClassification.ipynb)
   12. [Link Prediction](NS_HW12_LinkPrediction.ipynb)
   13. [Node Embeddings](NS_HW13_NodeEmbeddings.ipynb)
+  14. 
+  15. [Influence Propagation and Agent Based Models](NS_HW15_InfluencePropagation.ipynb)
 
